@@ -37,3 +37,6 @@ MM will start blinking by pressing MM button you can adjust MM then press button
 
 if power is cut off rtc sets time automatically when power is on
 
+
+simullation 
+https://wokwi.com/projects/429644471988272129
