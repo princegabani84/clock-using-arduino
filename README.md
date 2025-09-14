@@ -40,3 +40,7 @@ if power is cut off rtc sets time automatically when power is on
 
 simullation 
 https://wokwi.com/projects/429644471988272129
+
+## 👨‍💻 Author
+Made with ❤️ by prince gabani  
+
